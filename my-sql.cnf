@@ -5,3 +5,4 @@ innodb_log_file_size = 1G
 innodb_write_io_threads = 16
 innodb_flush_log_at_trx_commit = 0
 sql_mode = "NO_ENGINE_SUBSTITUTION,STRICT_TRANS_TABLES"
+max_allowed_packet = 32M
